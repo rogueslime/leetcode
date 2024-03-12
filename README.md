@@ -8,3 +8,4 @@
 | 2634 | Filter Elements from Array                 | [js](https://github.com/rogueslime/leetcode/blob/main/js/FilterElementsFromArray.js)              |
 | 2626 | Array Reduce Transformation                | [js](https://github.com/rogueslime/leetcode/blob/main/js/ArrayReduceTransformation.js)            |
 | 2629 | Function Composition                       | [js](https://github.com/rogueslime/leetcode/blob/main/js/FunctionComposition.js)                  |
+| 2703 | Returning Lengths of Arguments Passed      | [js](https://github.com/rogueslime/leetcode/blob/main/js/ReturningLengthsOfArgumentsPassed.js)    |
