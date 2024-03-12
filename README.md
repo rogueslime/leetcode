@@ -9,3 +9,4 @@
 | 2626 | Array Reduce Transformation                | [js](https://github.com/rogueslime/leetcode/blob/main/js/ArrayReduceTransformation.js)            |
 | 2629 | Function Composition                       | [js](https://github.com/rogueslime/leetcode/blob/main/js/FunctionComposition.js)                  |
 | 2703 | Returning Lengths of Arguments Passed      | [js](https://github.com/rogueslime/leetcode/blob/main/js/ReturningLengthsOfArgumentsPassed.js)    |
+| 2666 | Allow One Function Call                    | [js](https://github.com/rogueslime/leetcode/blob/main/js/AllowOneFunctionCall.js)                 |

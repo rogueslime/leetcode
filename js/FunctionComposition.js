@@ -5,7 +5,7 @@
 var compose = function(functions) {
     
     return function(x) {
-        returnVal = x;
+        let returnVal = x;
         functions.findLast((func) => {returnVal = func(returnVal)});
         return returnVal;
     }
