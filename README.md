@@ -11,3 +11,4 @@
 | 2703 | Returning Lengths of Arguments Passed      | [js](https://github.com/rogueslime/leetcode/blob/main/js/ReturningLengthsOfArgumentsPassed.js)    | E          |
 | 2666 | Allow One Function Call                    | [js](https://github.com/rogueslime/leetcode/blob/main/js/AllowOneFunctionCall.js)                 | E          |
 | 2623 | Memoize                                    | [js](https://github.com/rogueslime/leetcode/blob/main/js/Memoize.js)                              | M          |
+| 2723 | Add Two Promises                           | [js](https://github.com/rogueslime/leetcode/blob/main/js/AddTwoPromises.js)                       | E          |
