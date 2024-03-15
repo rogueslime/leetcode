@@ -14,3 +14,5 @@
 | 2723 | Add Two Promises                           | [js](https://github.com/rogueslime/leetcode/blob/main/js/AddTwoPromises.js)                       | E          |
 | 2621 | Sleep                                      | [js](https://github.com/rogueslime/leetcode/blob/main/js/Sleep.js)                                | E          |
 | 2715 | Timeout Cancellation                       | [js](https://github.com/rogueslime/leetcode/blob/main/js/TimeoutCancellation.js)                  | E          |
+| 2725 | Interval Cancellation                      | [js](https://github.com/rogueslime/leetcode/blob/main/js/IntervalCancellation.js)                 | E          |
+| 2637 | Promise Time Limit                         | [js](https://github.com/rogueslime/leetcode/blob/main/js/PromiseTimeLimit.js)                     | M          |
