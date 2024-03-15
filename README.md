@@ -13,3 +13,4 @@
 | 2623 | Memoize                                    | [js](https://github.com/rogueslime/leetcode/blob/main/js/Memoize.js)                              | M          |
 | 2723 | Add Two Promises                           | [js](https://github.com/rogueslime/leetcode/blob/main/js/AddTwoPromises.js)                       | E          |
 | 2621 | Sleep                                      | [js](https://github.com/rogueslime/leetcode/blob/main/js/Sleep.js)                                | E          |
+| 2715 | Timeout Cancellation                       | [js](https://github.com/rogueslime/leetcode/blob/main/js/TimeoutCancellation.js)                  | E          |
