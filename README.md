@@ -16,3 +16,4 @@
 | 2715 | Timeout Cancellation                       | [js](https://github.com/rogueslime/leetcode/blob/main/js/TimeoutCancellation.js)                  | E          |
 | 2725 | Interval Cancellation                      | [js](https://github.com/rogueslime/leetcode/blob/main/js/IntervalCancellation.js)                 | E          |
 | 2637 | Promise Time Limit                         | [js](https://github.com/rogueslime/leetcode/blob/main/js/PromiseTimeLimit.js)                     | M          |
+| 2622 | Cache with Time Limit | [js](https://github.com/rogueslime/leetcode/blob/main/js/CacheWithTimeLimit.js) | M |
