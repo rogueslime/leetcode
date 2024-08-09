@@ -16,6 +16,7 @@
 | 2715 | Timeout Cancellation                       | [js](https://github.com/rogueslime/leetcode/blob/main/js/TimeoutCancellation.js)                  | E          |
 | 2725 | Interval Cancellation                      | [js](https://github.com/rogueslime/leetcode/blob/main/js/IntervalCancellation.js)                 | E          |
 | 387 | First Unique Character in a String | [js](https://github.com/rogueslime/leetcode/blob/main/js/FirstUniqueCharacterinaString.js) | E |
+| 94 | Binary Tree Inorder Traversal | [js](https://github.com/rogueslime/leetcode/blob/main/js/BinaryTreeInorderTraversal.js) | E |
 | 2637 | Promise Time Limit                         | [js](https://github.com/rogueslime/leetcode/blob/main/js/PromiseTimeLimit.js)                     | M          |
 | 2622 | Cache with Time Limit | [js](https://github.com/rogueslime/leetcode/blob/main/js/CacheWithTimeLimit.js) | M |
 | 2627 | Debounce | [js](https://github.com/rogueslime/leetcode/blob/main/js/Debounce.js) | M |
